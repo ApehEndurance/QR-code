@@ -1,0 +1,2 @@
+-QR code component built with HTML and CSS
+-In process i leanrt about flexbox and how to manipulative and center div
